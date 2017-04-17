@@ -1,0 +1,25 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Anatomy4D_2.0.1.110_apk-dl.com.apk
+compressionType: false
+doNotCompress:
+- arsc
+- dat
+- xml
+- txt
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '8'
+  targetSdkVersion: '19'
+sharedLibrary: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.2.1
+versionInfo:
+  versionCode: '5'
+  versionName: 2.0.1.110
